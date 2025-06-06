@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./image.png)
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github - @mkm0702](https://github.com/mkm0702/artcle-preview-component)
+- Live Site URL: [Netlify ](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mkm0702)
-- Twitter - [@yourusername](https://www.twitter.com/mkm0702_)
+- Frontend Mentor - [@mkm0702](https://www.frontendmentor.io/profile/mkm0702)
+- Twitter - [@mkm0702_](https://www.twitter.com/mkm0702_)
