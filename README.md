@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github - @mkm0702](https://github.com/mkm0702/artcle-preview-component)
-- Live Site URL: [Netlify ](https://your-live-site-url.com)
+- Live Site URL: [Netlify ](https://article-preview-component-sol.netlify.app/)
 
 ## My process
 
